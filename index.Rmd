@@ -1,0 +1,13 @@
+---
+title: "Redirection page"
+image: "img/nhsr-logo.png"
+links:
+  - label: Website
+    url: "https://nhsrcommunity.com/"
+output:
+  postcards::jolla
+---
+ 
+This page was originally used for the Quarto website whilst it was being created.
+
+The NHS-R Community website is now available on the main link <https://www.nhsrcommunity.com>
